@@ -28,23 +28,28 @@ const Project = () => {
     {
       img: project3,
       name: "Personal Project 3: My Digital Business Website",
-      dicsription:"This website show my services and another portfolio with some of my graphic design work",
       github_link: "/",
       live_link: "https://digitalqueenagency.com/2097-2/",
     },
     {
       img: project4,
-      name: "School Project 1: Learning and Career Agregator",
+      name: "School Project 1: Learning and Career Agregator : JobBi",
       github_link:
-        "/",
-      live_link: "https://markthos.github.io/Job.BI/landingPage.html",
+        "https://github.com/markthos/Job.BI",
+      deploy_link: "https://markthos.github.io/Job.BI/landingPage.html",
     },
   {
     img:project5,
-    name: "School Project 2: Travel personal budget App",
-    dicsription:"This website is my first school group project, This project has been build to demonstrate how we learned this past 3 months in class",
+    name: "School Project 2: Travel personal budget App : Travel Geek",
     github_link: "https://github.com/SquirrelsAtARave/Travel-Geek",
-    live_link: "/",
+    deploy_link: "https://travelgeekalicia-bd545f74fdfc.herokuapp.com",
+  },
+  {
+    img:project6,
+    name: "School Project 3: Interactive MERN SPA Project : Where's Robber?",
+    dicsription:"This website is my first school group project, This project has been build to demonstrate how we learned this past 3 months in class",
+    github_link: "https://github.com/vini3076/prj3-WhereisRobbert",
+    deploy_link: "https://where-is-robbert-6b2227092c3e.herokuapp.com//",
   }
   ];
   return (

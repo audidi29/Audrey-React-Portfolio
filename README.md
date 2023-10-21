@@ -76,7 +76,7 @@ To run this portfolio locally or contribute to it, follow these steps:
    npm run dev
    ```
 
-5. Open your web browser and visit [http://localhost:8001/] to view the portfolio locally.
+5. Open your web browser and visit [http://localhost:8002/] to view the portfolio locally.
 
 ## Contact
 

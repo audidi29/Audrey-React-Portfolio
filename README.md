@@ -38,6 +38,7 @@ This is a single-page application portfolio for a web developer. It was built to
 
 ## Preview
 
+![alt](src/assets/images/Preview.png)
 
 
 ## Technologies Used
@@ -76,11 +77,11 @@ To run this portfolio locally or contribute to it, follow these steps:
    npm run dev
    ```
 
-5. Open your web browser and visit [http://localhost:8002/] to view the portfolio locally.
+5. Open your web browser and visit [http://localhost:8003/] to view the portfolio locally.
 
 ## Contact
 
-- Email: digitalqueeninfo@gmail.com
+- Email: laetitia.ama@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/laetitia-audrey-kacoutie-veh-879102ba/](#)
 - GitHub: [https://github.com/audidi29/Audrey-React-Portfolio](#)
 

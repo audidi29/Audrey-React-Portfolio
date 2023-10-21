@@ -20,7 +20,7 @@ const About = () => {
                 
         I'm Audrey Kacoutie-Veh, a French speaker with a passion for design. I specialize in both frontend and backend web development. I can craft a frontend webpage using HTML, CSS, and the skills I've recently acquired. On the backend, I'm proficient in utilizing technologies such as Node.js, Handlebars, Express.js, and JavaScript to create dynamic and functional webpages. Additionally, I am experienced in designing complete websites using WordPress, and I can also create captivating graphic designs. I find great joy in listening to people's ideas and transforming them into reality.
               </p>
-              <div className="flex mt-10 items-center gap-7">
+              {/* <div className="flex mt-10 items-center gap-7">
                 {info.map((content) => (
                   <div key={content.text}>
                     <h3 className="md:text-4xl text-2xl font-semibold text-white">
@@ -30,12 +30,12 @@ const About = () => {
                     <span className="md:text-base text-xs">{content.text}</span>
                   </div>
                 ))}
-              </div>
-              <br />
+              </div> */}
+              {/* <br />
               <br />
               <a href="./src/assets/Code_a_program.pdf" download>
                 <button className="btn-primary">Download CV</button>
-              </a>
+              </a> */}
             </div>
           </div>
           <div className="flex-1 md:mt-0 mt-6 flex justify-center items-center">

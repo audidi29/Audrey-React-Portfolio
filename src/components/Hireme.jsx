@@ -14,9 +14,9 @@ const Hireme = () => {
           <h2 className="text-2xl font-semibold">
             Do you want any work from me?
           </h2>
-          {/* <p className="lg:text-left text-justify max-w-lg text-sm mt-4 text-gray-200 leading-6">
-           
-          </p> */}
+          <p className="lg:text-left text-justify max-w-lg text-sm mt-4 text-gray-200 leading-6">
+            I am more than ready to help you grow your clients portfolio with my skills!
+          </p>
           <button className="btn-primary mt-10">Say Hello</button>
         </div>
         <img

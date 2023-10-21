@@ -1,10 +1,8 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import project1 from "../assets/images/project-1.png";
-import project2 from "../assets/images/project-2.png";
-import project3 from "../assets/images/project-3.png";
 import project4 from "../assets/images/project-4.png";
 import project5 from "../assets/images/project-5.png";
+import project6 from "../assets/images/project-6.png";
 import "swiper/css";
 import "swiper/css/pagination";
 import { Pagination, Autoplay } from "swiper";
@@ -12,45 +10,24 @@ import { Pagination, Autoplay } from "swiper";
 const Project = () => {
   const projects = [
     {
-      img: project1,
-      name: "Personal Project 1 : Website Design",
-      dicsription: "This website have been design for an NGO Ivoire Alliance",
-      github_link: "/",
-      live_link: "https://ivoirealliance.org/",
-    },
-    {
-      img: project2,
-      name: "Personal Project 2: Website Design",
-      dicsription:"This website have been design for an Airplane Maintenance Startup",
-      github_link: "/",
-      live_link: "https://ivoirealliance.org/",
-    },
-    {
-      img: project3,
-      name: "Personal Project 3: My Digital Business Website",
-      github_link: "/",
-      live_link: "https://digitalqueenagency.com/2097-2/",
-    },
-    {
       img: project4,
       name: "School Project 1: Learning and Career Agregator : JobBi",
-      github_link:
-        "https://github.com/markthos/Job.BI",
+      github_link:"https://github.com/markthos/Job.BI",
       deploy_link: "https://markthos.github.io/Job.BI/landingPage.html",
     },
-  {
-    img:project5,
-    name: "School Project 2: Travel personal budget App : Travel Geek",
+    {
+      img: project5,
+      name: "School Project 2: Travel personal budget App : Travel Geek",
     github_link: "https://github.com/SquirrelsAtARave/Travel-Geek",
     deploy_link: "https://travelgeekalicia-bd545f74fdfc.herokuapp.com",
-  },
-  {
-    img:project6,
-    name: "School Project 3: Interactive MERN SPA Project : Where's Robber?",
-    dicsription:"This website is my first school group project, This project has been build to demonstrate how we learned this past 3 months in class",
-    github_link: "https://github.com/vini3076/prj3-WhereisRobbert",
-    deploy_link: "https://where-is-robbert-6b2227092c3e.herokuapp.com//",
-  }
+    },
+    {
+      img: project6,
+      name: "School Project 3: Interactive MERN SPA Project : Where's Robber?",
+      dicsription:"This website is my first school group project, This project has been build to demonstrate how we learned this past 3 months in class",
+      github_link: "https://github.com/vini3076/prj3-WhereisRobbert",
+      deploy_link: "https://where-is-robbert-6b2227092c3e.herokuapp.com/",
+    },
   ];
   return (
     <section id="projects" className="py-10 text-white">

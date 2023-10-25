@@ -81,6 +81,7 @@ To run this portfolio locally or contribute to it, follow these steps:
 ## Contact
 
 - Email: laetitia.ama@gmail.com
+- Deploy Link : https://audidi29.github.io/Audrey-React-Portfolio/
 - LinkedIn: [https://www.linkedin.com/in/laetitia-audrey-kacoutie-veh-879102ba/](#)
 - GitHub: [https://github.com/audidi29/Audrey-React-Portfolio](#)
 

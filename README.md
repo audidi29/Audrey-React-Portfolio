@@ -33,7 +33,6 @@ This is a single-page application portfolio for a web developer. It was built to
 - "About Me" section with a photo and bio.
 - "Portfolio" section with project images and links.
 - "Contact" section with form validation.
-- "Resume" section with downloadable resume and proficiencies.
 - Footer with links to GitHub and LinkedIn profiles.
 
 ## Preview
